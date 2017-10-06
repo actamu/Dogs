@@ -9,5 +9,6 @@ The key points focus on:
 * *Why* certain features make as react the way we do
 * The fact that beauty is in the eye of the beholder; even ugly dogs can be cute!
 
-To conclude, here is an example! 
+To conclude, here is an example! (A little biased because this is my dog.)
+
 ![Cute Dog](https://github.com/mindibyrum/Dogs/blob/master/Snapchat-20140208012927.jpg)
